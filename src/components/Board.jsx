@@ -20,6 +20,9 @@ const Board = ({squares, onClick}) => {
                 {renderSquare(4)}
                 {renderSquare(5)}
             </div>
+            <div>
+                new 779
+            </div>
             <div className="board-row">
                 {renderSquare(6)}
                 {renderSquare(7)}
