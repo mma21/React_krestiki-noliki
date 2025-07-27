@@ -21,7 +21,7 @@ const Board = ({squares, onClick}) => {
                 {renderSquare(5)}
             </div>
             <div>
-                new 779
+                Test branch
             </div>
             <div className="board-row">
                 {renderSquare(6)}
